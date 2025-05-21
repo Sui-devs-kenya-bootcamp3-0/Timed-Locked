@@ -14,7 +14,7 @@ const MODULE_ADDRESS = "0xc6a68b2f80999f48cc2a6b9f06664f2a00d4dea979c087e8501498
 
 // Create a Sui client
 const client = new SuiClient({
-  url: "https://fullnode.mainnet.sui.io",
+  url: "https://fullnode.testnet.sui.io",
 })
 
 interface LockedFund {
