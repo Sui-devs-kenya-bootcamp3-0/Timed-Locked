@@ -1,0 +1,1 @@
+export const SUI_PACKAGE_ID = "0xc6a68b2f80999f48cc2a6b9f06664f2a00d4dea979c087e85014989cdeb45aaf"
